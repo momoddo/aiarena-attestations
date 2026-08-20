@@ -1,0 +1,153 @@
+{
+ "date": "2026-08-20",
+ "combined_sha256": "8ec7a6f241183639b6d96ba7302f7a9de8fa7f10eb1fea9341e2b50986014840",
+ "files": {
+  "card_11": {
+   "sha256": "fa43bf0e5ecb58366906e7c3a4e571f78b406cb0ee306ec0b8165e3d66e26295",
+   "bytes": 920586,
+   "equity": 9519.7,
+   "n_trades": 41,
+   "last_bar_ms": 1787182200000
+  },
+  "card_12": {
+   "sha256": "cf26b3b84233db4d21b9ad0fbbf49862d35976d7bb3c3497c1eefd5116562a72",
+   "bytes": 1283411,
+   "equity": 7372.3,
+   "n_trades": 160,
+   "last_bar_ms": 1787182200000
+  },
+  "card_13": {
+   "sha256": "d364f32c3f457d1d5879033965d335d88307f12c7d0ccb06b27477549810b5d1",
+   "bytes": 989120,
+   "equity": 9238.77,
+   "n_trades": 84,
+   "last_bar_ms": 1787182200000
+  },
+  "card_14": {
+   "sha256": "7c4af6943dc8425eacd51f40208e53a48d3d5fb569c133a9de92d5d9957d5719",
+   "bytes": 1224463,
+   "equity": 8688.38,
+   "n_trades": 139,
+   "last_bar_ms": 1787182200000
+  },
+  "card_15": {
+   "sha256": "35792cfccbccaa973d48e023636121a0db27c8529551b918c71353ba472f6075",
+   "bytes": 929982,
+   "equity": 9660.11,
+   "n_trades": 47,
+   "last_bar_ms": 1787182200000
+  },
+  "card_16": {
+   "sha256": "40a77ebb9ad9af0fbdeff8e01bc9b9d0402bf30c59530524ffa7d63d432e54db",
+   "bytes": 1225993,
+   "equity": 8795.16,
+   "n_trades": 141,
+   "last_bar_ms": 1787182200000
+  },
+  "card_17": {
+   "sha256": "79bd5d49bae79e03018edd6b176f37c8148e8c95b58231be5b6dfa5d3e74173b",
+   "bytes": 1134645,
+   "equity": 8362.91,
+   "n_trades": 112,
+   "last_bar_ms": 1787182200000
+  },
+  "card_18": {
+   "sha256": "5ce1b953c8d23ecd568262c456aaf7a81e3130464b7c6d29cf4ed80053c8e37f",
+   "bytes": 960663,
+   "equity": 8971.4,
+   "n_trades": 56,
+   "last_bar_ms": 1787182200000
+  },
+  "card_19": {
+   "sha256": "2732928a0fc9f651821a144902899f5f37e397e50027d393d9d8842712b4c198",
+   "bytes": 939141,
+   "equity": 9834.89,
+   "n_trades": 49,
+   "last_bar_ms": 1787182200000
+  },
+  "card_2": {
+   "sha256": "0835699cf5d060d88d78550e521b1ebc26092ef3889db1cbb2c7f2e233ea7ee3",
+   "bytes": 1243513,
+   "equity": 9797.31,
+   "n_trades": 173,
+   "last_bar_ms": 1787182200000
+  },
+  "card_20": {
+   "sha256": "3d1b6ff4b9ece811a4681453b2fe06a122dc9f6dbdd979da911afd9efcf4cd83",
+   "bytes": 1250048,
+   "equity": 8858.88,
+   "n_trades": 143,
+   "last_bar_ms": 1787182200000
+  },
+  "card_21": {
+   "sha256": "ac7c4aafcb8db32799983eda6f98986ea02fdea1fb2c083581cbcd47b3c7b9b3",
+   "bytes": 1814225,
+   "equity": 8352.85,
+   "n_trades": 336,
+   "last_bar_ms": 1787183700000
+  },
+  "card_22": {
+   "sha256": "ff3d6d6277c8c3f0f4bcb49c73c61ef60615b4e27e1fedb634fafe260d74507c",
+   "bytes": 1483486,
+   "equity": 7214.59,
+   "n_trades": 240,
+   "last_bar_ms": 1787182200000
+  },
+  "card_23": {
+   "error": "[Errno 2] No such file or directory: '/opt/aigu/brain/cards/23/paper.json'"
+  },
+  "card_24": {
+   "error": "[Errno 2] No such file or directory: '/opt/aigu/brain/cards/24/paper.json'"
+  },
+  "card_25": {
+   "sha256": "7a40816ee937c9644d8b9e50c6f37448ee22f231c1f8b5357fa1a0668483d6c1",
+   "bytes": 853039,
+   "equity": 7710.89,
+   "n_trades": 41,
+   "last_bar_ms": 1787184000000
+  },
+  "card_26": {
+   "sha256": "6e99e1edc998801ffa64894f1782777a79daef5870c1e254075518c37edf58a5",
+   "bytes": 671149,
+   "equity": 8940.53,
+   "n_trades": 133,
+   "last_bar_ms": 1787184000000
+  },
+  "card_27": {
+   "sha256": "15395182eab4ba93e03b58ef82e426ef923437b535dd3e6d0cd813ee122b97f8",
+   "bytes": 1436234,
+   "equity": 7578.72,
+   "n_trades": 216,
+   "last_bar_ms": 1787184000000
+  },
+  "card_30": {
+   "sha256": "0573287204329257880f9ab938969260b449ae2e7c36b5baf75d4f0652f345e7",
+   "bytes": 693711,
+   "equity": 9439.05,
+   "n_trades": 15,
+   "last_bar_ms": 1787184000000
+  },
+  "card_39": {
+   "sha256": "eb7434f6abeb7a9d91af664e5df61cefe1310356179c8b8d56190140909805dc",
+   "bytes": 1070,
+   "equity": 10000.0,
+   "n_trades": 0,
+   "last_bar_ms": 1787097599999
+  },
+  "card_40": {
+   "sha256": "580a187ae72ce448e3ee6f96747eb710948bc91c1788b69c5d34dfd29820d330",
+   "bytes": 1069,
+   "equity": 10000.0,
+   "n_trades": 0,
+   "last_bar_ms": 1787097599999
+  },
+  "demo": {
+   "sha256": "102e0a219a2bb476b947f53f7e3e11c7380abb70270e00cafe13a7a036dff0e7",
+   "bytes": 1769094,
+   "equity": 9358.85,
+   "n_trades": 344,
+   "last_bar_ms": 1787182200000
+  }
+ },
+ "scheme": "sha256(file_bytes); combined = sha256(json of name->sha256, sorted)"
+}
